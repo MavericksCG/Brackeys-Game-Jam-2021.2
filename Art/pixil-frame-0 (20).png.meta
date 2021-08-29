@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 6f93e26925909a14b939ba0512f86889
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones:
+    - name: bone_6
+      position: {x: 692.26666, y: 262.91302, z: 0}
+      rotation: {x: 0, y: 0, z: 0.973249, w: 0.22975287}
+      length: 3.8869152
+      parentId: -1
+    - name: bone_7
+      position: {x: 262.91364, y: 257.69882, z: 0}
+      rotation: {x: 0, y: 0, z: 0.026636515, w: 0.9996452}
+      length: 130.55566
+      parentId: -1
+    - name: bone_8
+      position: {x: 130.55565, y: 0.00013030593, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6996324, w: 0.714503}
+      length: 107.829056
+      parentId: 1
+    - name: bone_9
+      position: {x: 107.829056, y: 0.000020407511, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7031347, w: 0.71105665}
+      length: 40.018017
+      parentId: 2
+    - name: bone_10
+      position: {x: 40.018024, y: -0.000014845998, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6997408, w: 0.7143968}
+      length: 76.50369
+      parentId: 3
+    - name: bone_11
+      position: {x: 76.50372, y: 0.000017723945, z: 0}
+      rotation: {x: 0, y: -0, z: -0.7270359, w: 0.6865995}
+      length: 201.75935
+      parentId: 4
+    - name: bone_12
+      position: {x: 201.75934, y: 0.000030902964, z: 0}
+      rotation: {x: 0, y: 0, z: -0.69481546, w: 0.7191881}
+      length: 67.7925
+      parentId: 5
+    - name: bone_13
+      position: {x: 67.79249, y: 0.000014418403, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6286771, w: 0.77766645}
+      length: 24.888218
+      parentId: 6
+    - name: bone_14
+      position: {x: 24.888205, y: -0.000015582249, z: 0}
+      rotation: {x: 0, y: 0, z: -0.61605805, w: 0.7877008}
+      length: 107.82881
+      parentId: 7
+    - name: bone_15
+      position: {x: 107.82883, y: -0.0000146285865, z: 0}
+      rotation: {x: 0, y: -0, z: 0.74266386, w: 0.6696644}
+      length: 38.595974
+      parentId: 8
+    - name: bone_16
+      position: {x: 38.596027, y: -0.000019493076, z: 0}
+      rotation: {x: 0, y: 0, z: -0.11205278, w: 0.9937023}
+      length: 97.73036
+      parentId: 9
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
